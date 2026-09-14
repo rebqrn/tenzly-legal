@@ -14,6 +14,8 @@ Phone numbers collected are used solely to:
 - Send an automated text message notifying the caller that their call was received
 - Allow the caller to reply and communicate further with the business, if they choose
 
+Message Frequency: Message frequency varies based on call volume; typically one message per missed call. Message and data rates may apply.
+
 We do not sell, rent, or share phone numbers with third parties for marketing purposes. Phone numbers are not used for any purpose beyond the direct texting service described above.
 
 **Data Retention**

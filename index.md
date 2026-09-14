@@ -1,6 +1,20 @@
 # Loopline — Privacy Policy & Terms of Service
 
-*Last updated: 9/13/2026*
+*Last updated: 9/14/2026*
+
+## SMS Consent & Call to Action
+
+**By calling a business phone number serviced by Loopline, you consent to receive one automated text message from that business in response to your call.**
+
+This text message will let you know your call was received and that the business will follow up with you shortly. No further messages will be sent unless you reply to continue the conversation with the business.
+
+- Message frequency: one automated message per missed call
+- Message and data rates may apply
+- Reply **STOP** at any time to opt out
+- Reply **HELP** for assistance
+- We do not sell, rent, or share your phone number with third parties
+
+This is the only method by which Loopline collects consent to send messages. Loopline does not use website sign-up forms, QR codes, or text-to-join keywords to collect consent — consent is established solely by the act of calling the business phone number.
 
 ## Privacy Policy
 
@@ -13,8 +27,6 @@ When a customer calls a business that uses Loopline's service, we collect the ca
 Phone numbers collected are used solely to:
 - Send an automated text message notifying the caller that their call was received
 - Allow the caller to reply and communicate further with the business, if they choose
-
-Message Frequency: Message frequency varies based on call volume; typically one message per missed call. Message and data rates may apply.
 
 We do not sell, rent, or share phone numbers with third parties for marketing purposes. Phone numbers are not used for any purpose beyond the direct texting service described above.
 
@@ -53,3 +65,4 @@ These terms may be updated periodically. Continued use of the service constitute
 
 **Contact**
 Questions about these terms can be directed to: wontimmy94@gmail.com
+

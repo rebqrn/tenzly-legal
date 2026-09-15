@@ -1,6 +1,6 @@
 # Loopline — Privacy Policy & Terms of Service
 
-*Last updated: 9/15/2026*
+*Last updated: 9/14/2026*
 
 ## What Loopline Is
 

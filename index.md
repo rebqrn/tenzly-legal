@@ -1,6 +1,10 @@
 # Loopline — Privacy Policy & Terms of Service
 
-*Last updated: 9/14/2026*
+*Last updated: 9/15/2026*
+
+## What Loopline Is
+
+Loopline is a messaging service that local home service businesses (HVAC, plumbing, contracting, and similar trades) use to automatically text their own customers back after a missed phone call. This page covers both the business clients who use Loopline and the callers ("recipients") who receive an automated text message as a result of calling one of those businesses.
 
 ## SMS Consent & Call to Action
 
@@ -12,13 +16,13 @@ If the call goes unanswered, this text message will let you know your call was r
 - Message and data rates may apply
 - Reply **STOP** at any time to opt out
 - Reply **HELP** for assistance
-- We do not sell, rent, or share your phone number with third parties
+- We do not share, sell, or provide your mobile phone number or messaging consent data to third parties or affiliates for marketing or promotional purposes
 
 This spoken, in-call disclosure — heard before any text is ever sent — is the only method by which Loopline collects consent to send messages. Loopline does not use website sign-up forms, QR codes, or text-to-join keywords to collect consent.
 
 ## Privacy Policy
 
-Loopline ("we," "us," or "our") provides automated text message notification services to businesses and their customers.
+Loopline ("we," "us," or "our") provides automated text message notification services to home service businesses and the customers who call them.
 
 **Information We Collect**
 When a customer calls a business that uses Loopline's service, we collect the caller's phone number in order to send an automated text response. We do not collect names, addresses, payment information, or any other personal data through this service.
@@ -28,7 +32,9 @@ Phone numbers collected are used solely to:
 - Send an automated text message notifying the caller that their call was received
 - Allow the caller to reply and communicate further with the business, if they choose
 
-We do not sell, rent, or share phone numbers with third parties for marketing purposes. Phone numbers are not used for any purpose beyond the direct texting service described above.
+**Message frequency: one automated message per missed call. Message and data rates may apply.**
+
+We do not share, sell, or provide your mobile phone number or messaging consent data to third parties or affiliates for marketing or promotional purposes. Phone numbers are not used for any purpose beyond the direct texting service described on this page.
 
 **Data Retention**
 Phone numbers are retained only as long as necessary to provide the service and are not stored for longer than 12 months unless required for ongoing business communication requested by the customer.
@@ -46,10 +52,10 @@ Questions about this privacy policy can be directed to: wontimmy94@gmail.com
 By using Loopline's messaging service (as a business client or as a message recipient), you agree to the following terms:
 
 **Service Description**
-Loopline provides automated SMS text responses on behalf of businesses when an incoming phone call is not answered. Messages are sent only in direct response to an inbound call placed by the recipient, and only after the caller has heard the in-call consent disclosure described above.
+Loopline provides automated SMS text responses on behalf of home service businesses when an incoming phone call is not answered. Messages are sent only in direct response to an inbound call placed by the recipient, and only after the caller has heard the in-call consent disclosure described above.
 
 **Consent**
-By calling a business phone number that uses Loopline's service, the caller hears a recorded disclosure and consents to receive one automated text message reply related to that call. Message and data rates may apply.
+By calling a business phone number that uses Loopline's service, the caller hears a recorded disclosure and consents to receive one automated text message reply related to that call. Message frequency: one message per missed call. Message and data rates may apply.
 
 **Opt-Out**
 Recipients may opt out at any time by replying STOP to any message. Once opted out, no further messages will be sent to that number through this service.
